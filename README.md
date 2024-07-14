@@ -1,4 +1,4 @@
-#Node/Express 2
+# Node/Express 2
 
 - Remember, assessments are meant to be completed by you, not as a shared exercise with friends or other members of your cohort.   
 - All code submitted should be written by you. If you incorporate code from elsewhere, it must be clearly specified.
@@ -36,7 +36,7 @@ Some bugs relate to methods returning slightly-wrong information, or being too f
 
 ----------
 
-#####Get the App Running   
+##### Get the App Running   
 
 
 First step is to get everything running. We’ve made the commands easy for you:
